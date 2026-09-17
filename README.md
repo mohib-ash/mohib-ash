@@ -157,7 +157,7 @@ This project became the foundation for how I approach larger AI backend systems.
 
 ### Languages
 
-`Python` `SQL` `Bash`
+`Python` `SQL` `Bash` `c++` 
 
 ### Backend
 
@@ -165,7 +165,7 @@ This project became the foundation for how I approach larger AI backend systems.
 
 ### AI / RAG
 
-`LangChain` `LLMs` `RAG` `ChromaDB` `BM25` `Embeddings` `Reranking`
+`LangChain` `LLMs` `RAG` `ChromaDB` `BM25` `Embeddings` `Reranking` `Pandas` `Numpy` `scikit-learn`
 
 ### Infrastructure
 
